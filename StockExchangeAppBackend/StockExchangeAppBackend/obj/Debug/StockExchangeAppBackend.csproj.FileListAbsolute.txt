@@ -1,0 +1,7 @@
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\bin\Debug\StockExchangeAppBackend.exe.config
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\bin\Debug\StockExchangeAppBackend.exe
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\bin\Debug\StockExchangeAppBackend.pdb
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\obj\Debug\StockExchangeAppBackend.csproj.AssemblyReference.cache
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\obj\Debug\StockExchangeAppBackend.csproj.CoreCompileInputs.cache
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\obj\Debug\StockExchangeAppBackend.exe
+C:\Users\st3ve\OneDrive\Desktop\Projects\StockExchangeApp\StockExchangeAppBackend\StockExchangeAppBackend\obj\Debug\StockExchangeAppBackend.pdb
